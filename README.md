@@ -22,4 +22,13 @@ Run Poweshell winget upgrade to accept license agreement:
 
 4.Tool Usage
 ----------------------
-![Check for Upgrades](https://user-images.githubusercontent.com/43472567/173566510-d59311b8-7f35-4b59-853e-bb61e2a70b76.png)
+![Tool Usage](https://user-images.githubusercontent.com/43472567/173566510-d59311b8-7f35-4b59-853e-bb61e2a70b76.png)
+
+5.Upgrade Single Application
+----------------------
+![Upgrade Single application](https://user-images.githubusercontent.com/43472567/173567213-491ead8d-bee4-4c40-8a5f-0ad73ab57802.png)
+
+5.Upgrade Done
+----------------------
+![Upgrade Done](https://user-images.githubusercontent.com/43472567/173567256-6c378bfc-b345-449b-9eb4-0fe175874ca7.png)
+
