@@ -6,7 +6,7 @@ Installation steps below.
 
 1.Install Winget when not installed yet
 ---------------------------------------
-Note: GUI should do install & config (WIP)
+-Note: GUI should do install & config (WIP)-
 ![Install Winget](https://user-images.githubusercontent.com/43472567/173564504-62186a8c-18f0-498d-942a-c7dcb54ad0a1.png)
 
 Run Poweshell winget upgrade to accept license agreement:
