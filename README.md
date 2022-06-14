@@ -19,3 +19,7 @@ Run Poweshell winget upgrade to accept license agreement:
 3.Check for upgrades
 ----------------------
 ![Check for Upgrades](https://user-images.githubusercontent.com/43472567/173564920-0269f6d1-e2f6-4d4b-b38b-3c841a4b7071.png)
+
+4.Tool Usage
+----------------------
+![Check for Upgrades](https://user-images.githubusercontent.com/43472567/173566510-d59311b8-7f35-4b59-853e-bb61e2a70b76.png)
