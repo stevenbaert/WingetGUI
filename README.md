@@ -12,3 +12,7 @@ Installation steps below.
 ---------------------------------------
 Note: GUI should do install (WIP)
 ![Install Winget](https://user-images.githubusercontent.com/43472567/173564504-62186a8c-18f0-498d-942a-c7dcb54ad0a1.png)
+
+3.Check for upgrades
+----------------------
+![Check for Upgrades](https://user-images.githubusercontent.com/43472567/173564920-0269f6d1-e2f6-4d4b-b38b-3c841a4b7071.png)
