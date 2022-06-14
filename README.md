@@ -2,7 +2,6 @@
 
 Simple GUI for Winget.
 
-1.Install MSI 
-------------
-![Install MSI](https://user-images.githubusercontent.com/43472567/173561782-4e093bdd-c067-4a11-9ff7-fac374cc191b.png)
-
+1.Install MSI and run
+----------------------
+![Install MSI](https://user-images.githubusercontent.com/43472567/173563928-ce7a33f2-a8ca-4a3f-b015-ba002cf3b92d.png)
