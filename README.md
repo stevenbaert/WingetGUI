@@ -1,12 +1,8 @@
 ﻿# WingetGUI
 
-Simple GUI for Winget.
+Simple GUI for Winget (WIP = Work In Progress).
+Installation steps below.
 
----------------------------
-Note: WIP = Work In Progress
-
-Installation steps:
---------------------
 
 1.Install MSI and run
 ----------------------
