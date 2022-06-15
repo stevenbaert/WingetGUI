@@ -30,5 +30,5 @@ Run Poweshell winget upgrade to accept license agreement:
 
 5.Upgrade Done
 ----------------------
-![Upgrade Done](https://user-images.githubusercontent.com/43472567/173567957-b78c1dd9-ee22-4634-b074-537a4235c809.png)
+![UpgradeDone](https://user-images.githubusercontent.com/43472567/173792208-b1525088-1b67-4f4b-9561-4cb7085b64fc.png)
 
