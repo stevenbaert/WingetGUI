@@ -1,59 +1,53 @@
 Name,ID,Version,Description
-GoogleChrome,Google.Chrome,Latest,ToAdd
-Putty,Putty.Putty,Latest,ToAdd
-XMind,XMind.XMind,Latest,ToAdd
-Notepad++,Notepad++.Notepad++,Latest,ToAdd
-EvolusPencil,Evolus.Pencil,Latest,ToAdd
+GoogleChrome,Google.Chrome,Latest,Google Chrome is a cross-platform web browser developed by Google.
+Putty,Putty.Putty,Latest,PuTTY is a free terminal emulator serial console and network file transfer application.
+XMind,XMind.XMind,Latest,XMind is a mind mapping and brainstorming software.
+Notepad++,Notepad++.Notepad++,Latest,Notepad++ is a free text and source code editor.
+EvolusPencil,Evolus.Pencil,Latest,Evolus Pencil provides a free and open source GUI prototyping tool.
 Belgium e-ID viewer,BelgianGovernment.eIDViewer,Latest,Gives you access to all your eID card data.
-FileZilla Client,TimKosse.FileZilla.Client,Latest,ToAdd
-GanttProject,GanttProject.GanttProject,Latest,ToAdd
-GIMP,GIMP.GIMP,Latest,ToAdd
-Mozilla Firefox,Mozilla.Firefox,Latest,ToAdd
-KeePassXC,KeePassXCTeam.KeePassXC,Latest,ToAdd
-TreeSize Free,JAMSoftware.TreeSize.Free,Latest,ToAdd
-WinSCP,WinSCP.WinSCP,Latest,ToAdd
-SoapUI,SmartBear.SoapUI,Latest,ToAdd
-VMware Horizon Client,VMware.HorizonClient,Latest,ToAdd
-Remote Desktop,Microsoft.RemoteDesktopClient,Latest,ToAdd
-MTPuTTY,TTYPlus.MTPutty,Latest,ToAdd
-TortoiseSVN,TortoiseSVN.TortoiseSVN,Latest,ToAdd
-TortoiseGit,TortoiseGit.TortoiseGit,Latest,ToAdd
-TeamViewer,TeamViewer.TeamViewer,Latest,ToAdd
-Microsoft PowerBI Desktop,Microsoft.PowerBI,Latest,ToAdd
-Windows Admin Center,Microsoft.WindowsAdminCenter,Latest,ToAdd
-Power Automate Desktop,Microsoft.PowerAutomateDesktop,Latest,ToAdd
-Microsoft PowerApps CLI,Microsoft.PowerAppsCLI,Latest,ToAdd
-PowerToys (Preview),Microsoft.PowerToys,Latest,ToAdd
-Microsoft Git,Microsoft.Git,Latest,ToAdd
-Microsoft Edge,Microsoft.Edge,Latest,ToAdd
-Microsoft Azure CLI,Microsoft.AzureCLI,Latest,ToAdd
-Microsoft Azure Storage Explorer,Microsoft.AzureStorageExplorer,Latest,ToAdd
-Zoom Outlook Plugin,Zoom.Zoom.OutlookPlugin,Latest,ToAdd
-Zoom,Zoom.Zoom,Latest,ToAdd
-HandBrake,HandBrake.HandBrake,Latest,ToAdd
-Google Earth Pro,Google.EarthPro,Latest,ToAdd
-Hover,Caphyon.Hover,Latest,ToAdd
+FileZilla Client,TimKosse.FileZilla.Client,Latest,FileZilla is a free open source file transfer protocol(FTP).
+GanttProject,GanttProject.GanttProject,Latest,GanttProject is GPL-licensed Java based project management software.
+GIMP,GIMP.GIMP,Latest,GIMP is a freely available open source application for creating and manipulating graphic images.
+Mozilla Firefox,Mozilla.Firefox,Latest,Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary.
+KeePassXC,KeePassXCTeam.KeePassXC,Latest,KeePassXC is a free and open-source password manager.
+TreeSize Free,JAMSoftware.TreeSize.Free,Latest,TreeSize is a disk space analyzer.
+WinSCP,WinSCP.WinSCP,Latest,WinSCP is a free and open-source SSH File Transfer Protocol, File Transfer Protocol, WebDAV, Amazon S3, and secure copy protocol client for Microsoft Windows.
+SoapUI,SmartBear.SoapUI,Latest,SoapUI is an open-source web service testing application for Simple Object Access Protocol and representational state transfers.
+VMware Horizon Client,VMware.HorizonClient,Latest,VMware Horizon is a modern platform for running and delivering virtual desktops and apps across the hybrid cloud.
+Remote Desktop,Microsoft.RemoteDesktopClient,Latest,A remote desktop is a program or an operating system feature that allows a user to connect to a computer in another location.
+MTPuTTY,TTYPlus.MTPutty,Latest,MTPuTTY is a small FREE utility enabling you to wrap unlimited number of PuTTY applications in one tabbed GUI interface.
+TortoiseSVN,TortoiseSVN.TortoiseSVN,Latest,TortoiseSVN is a Subversion client implemented as a Microsoft Windows shell extension that helps programmers manage different versions of the source code for their programs.
+TortoiseGit,TortoiseGit.TortoiseGit,Latest,TortoiseGit is a Git revision control client implemented as a Windows shell extension and based on TortoiseSVN.
+TeamViewer,TeamViewer.TeamViewer,Latest,TeamViewer is a remote access and remote control computer software allowing maintenance of computers and other devices.
+Microsoft PowerBI Desktop,Microsoft.PowerBI,Latest,Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
+Windows Admin Center,Microsoft.WindowsAdminCenter,Latest,Windows Admin Center can handle a series of administrative tasks.
+Power Automate Desktop,Microsoft.PowerAutomateDesktop,Latest,Power Automate Desktop allows you to automate both legacy applications such as terminal emulators modern web and desktop applications Excel files and folders.
+Microsoft PowerApps CLI,Microsoft.PowerAppsCLI,Latest,Microsoft Power Platform CLI is a simple one-stop developer CLI that empowers developers and ISVs to perform various operations in Microsoft Power Platform.
+PowerToys (Preview),Microsoft.PowerToys,Latest,Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
+Microsoft Git,Microsoft.Git,Latest,Git is a distributed version control system which means that a local clone of the project is a complete version control repository.
+Microsoft Edge,Microsoft.Edge,Latest,Microsoft Edge is a cross-platform web browser created and developed by Microsoft.
+Microsoft Azure CLI,Microsoft.AzureCLI,Latest,The Azure Command-Line Interface (CLI) is a cross-platform command-line tool to connect to Azure and execute administrative commands on Azure resources.
+Microsoft Azure Storage Explorer,Microsoft.AzureStorageExplorer,Latest,Azure Storage Explorer is feasible and allows you to connect to any Azure storage through any device on any platform.
+Zoom Outlook Plugin,Zoom.Zoom.OutlookPlugin,Latest,The Zoom Microsoft Outlook plugin is designed to make scheduling a meeting in Microsoft Outlook quick and convenient.
+Zoom,Zoom.Zoom,Latest,Zoom provides videotelephony and online chat services through a cloud-based peer-to-peer software platform.
+HandBrake,HandBrake.HandBrake,Latest,HandBrake is a free and open-source transcoder for digital video files.
+Google Earth Pro,Google.EarthPro,Latest,Google Earth Pro on desktop is free for users with advanced feature needs Import and export GIS data and go back in time with historical imagery.
+Hover,Caphyon.Hover,Latest,Hover is a free tool that allows you to run natively installed applications inside an MSIX or App-V container.
 Advanced Installer,Caphyon.AdvancedInstaller,Latest,Windows Installer authoring tool which helps you create MSI installs in minutes.
 7-Zip,7zip.7zip,Latest,Free and open source file archiver with a high compression ratio.
-Python 3,Python.Python.3,Latest,ToAdd
-Microsoft Visual Studio Code,Microsoft.VisualStudioCode,Latest,ToAdd
-VMware Player,VMware.WorkstationPlayer,Latest,ToAdd
-RVTools,Robware.RVTools,Latest,ToAdd
-WinMerge,WinMerge.WinMerge,Latest,ToAdd
-Postman,Postman.Postman,Latest,ToAdd
-Postman Agent,Postman.Postman.DesktopAgent,Latest,ToAdd
-IrfanView,IrfanSkiljan.IrfanView,Latest,ToAdd
+Python 3,Python.Python.3,Latest,Python is a general-purpose interpreted interactive object-oriented and high-level programming language.
+Microsoft Visual Studio Code,Microsoft.VisualStudioCode,Latest,Visual Studio Code is a streamlined code editor with support for development operations like debugging task running and version control.
+VMware Player,VMware.WorkstationPlayer,Latest,VMware Player provides an intuitive user interface for running preconfigured virtual machines created with VMware Workstation GSX Server and ESX Server.
+RVTools,Robware.RVTools,Latest,RVTools is a VMware utility that connects to your vCenter server and captures every bit of information about your virtual machines (VMs) and your ESXi hosts that you'd want to know.
+WinMerge,WinMerge.WinMerge,Latest,WinMerge is a free software tool for data comparison and merging of text-like files.
+Postman,Postman.Postman,Latest,Postman is an API platform for developers to design build test and iterate their APIs.
+Postman Agent,Postman.Postman.DesktopAgent,Latest,The Postman agent overcomes the Cross Object Resource Sharing (CORS) limitations of browsers and facilitates API request sending from your browser version of Postman.
+IrfanView,IrfanSkiljan.IrfanView,Latest,IrfanView is an image viewer editor organiser and converter program for Microsoft Windows.
 draw.io,JGraph.Draw,Latest,Diagrams.net desktop app based on Electron to create and edit diagrams.
-VLC media player,VideoLAN.VLC,Latest,ToAdd
+VLC media player,VideoLAN.VLC,Latest,VLC media player is a free and open-source portable cross-platform media player software and streaming media server developed by the VideoLAN project.
 Adobe Connect,Adobe.AdobeConnect,Latest,Suite of software for remote training - web conferencing - presentation and desktop sharing.
-Greenshot,Greenshot.Greenshot,Latest,ToAdd
-SmartFTP Client,SmartSoft.SmartFTP,Latest,ToAdd
-mRemoteNG,mRemoteNG.mRemoteNG,Latest,ToAdd
-Opera Stable,Opera.Opera,Latest,ToAdd
-Microsoft Visio Viewer 2016,Microsoft.VisioViewer,Latest,ToAdd
-
-
-
-
-
-
+Greenshot,Greenshot.Greenshot,Latest,Greenshot is a free and open-source screenshot program for Microsoft Windows.
+SmartFTP Client,SmartSoft.SmartFTP,Latest,SmartFTP is a network file transfer program for Microsoft Windows. 
+mRemoteNG,mRemoteNG.mRemoteNG,Latest,mRemoteNG is a fork of mRemote an open source tabbed multi-protocol remote connections manager for Windows.
+Opera Stable,Opera.Opera,Latest,Opera is a multi-platform web browser based on Chromium.
+Microsoft Visio Viewer 2016,Microsoft.VisioViewer,Latest,Microsoft Visio 2016 Viewer allows anyone to view Visio drawings inside their Microsoft Internet Explorer Web browser.
